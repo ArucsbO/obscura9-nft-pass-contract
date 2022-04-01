@@ -11,7 +11,7 @@ contract ObscurAFinalPass is ERC721URIStorage, Ownable {
   Counters.Counter private _tokenIds;
   uint private totalSupply = 3;
 
-  constructor() ERC721("ObscurA9 NFT", "OBSA9") {
+  constructor() ERC721("ObscurAFinalPass", "OBSFP") {
 
   }
 
